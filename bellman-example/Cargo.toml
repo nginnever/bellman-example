@@ -1,0 +1,16 @@
+[package]
+name = "bellman-example"
+version = "0.1.0"
+authors = ["nginnever <ginneversource@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rand = "0.4"
+bit-vec = "0.5"
+futures = "0.1"
+bellperson = "0.9.1"
+paired = "0.20.0"
+byteorder = "1"
+
